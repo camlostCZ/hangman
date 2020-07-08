@@ -6,8 +6,9 @@ This implementation is just a small project to entertain my kids. ;-)
 
 ## Usage
 
+```
 hangman.py [filename]
-
+```
 The *filename* file should contain a list of 'secret' words,
 each on a new line.
 
