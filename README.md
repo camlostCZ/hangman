@@ -15,4 +15,4 @@ If no filename is passed as an argument, 'words.txt' is used.
 
 ### Notes
 
-Word list contains words in Czech.
+The words.txt file contains words in Czech.
