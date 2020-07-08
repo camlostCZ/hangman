@@ -10,7 +10,7 @@ This implementation is just a small project to entertain my kids. ;-)
 hangman.py [filename]
 ```
 The *filename* file should contain a list of 'secret' words,
-each on a new line.
+each on a new line. Its enconding should be UTF-8.
 
 If no filename is passed as an argument, 'words.txt' is used.
 
